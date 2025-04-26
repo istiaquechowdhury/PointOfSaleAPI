@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "uyIYT/+jkcHUHeA9AoCG0GP/8ZCMf3izXR1/aH7JAY4=",
+  "Source": "PointOfSale.API",
+  "BasePath": "_content/PointOfSale.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,17 @@
+C:\Users\istia\source\repos\PointOfSale\PointOfSale.Infrastructure\bin\Debug\net9.0\PointOfSale.Infrastructure.deps.json
+C:\Users\istia\source\repos\PointOfSale\PointOfSale.Infrastructure\bin\Debug\net9.0\PointOfSale.Infrastructure.runtimeconfig.json
+C:\Users\istia\source\repos\PointOfSale\PointOfSale.Infrastructure\bin\Debug\net9.0\PointOfSale.Infrastructure.dll
+C:\Users\istia\source\repos\PointOfSale\PointOfSale.Infrastructure\bin\Debug\net9.0\PointOfSale.Infrastructure.pdb
+C:\Users\istia\source\repos\PointOfSale\PointOfSale.Infrastructure\bin\Debug\net9.0\PointOfSale.Domain.dll
+C:\Users\istia\source\repos\PointOfSale\PointOfSale.Infrastructure\bin\Debug\net9.0\PointOfSale.Domain.pdb
+C:\Users\istia\source\repos\PointOfSale\PointOfSale.Infrastructure\obj\Debug\net9.0\PointOfSale.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\istia\source\repos\PointOfSale\PointOfSale.Infrastructure\obj\Debug\net9.0\PointOfSale.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\istia\source\repos\PointOfSale\PointOfSale.Infrastructure\obj\Debug\net9.0\PointOfSale.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\istia\source\repos\PointOfSale\PointOfSale.Infrastructure\obj\Debug\net9.0\PointOfSale.Infrastructure.AssemblyInfo.cs
+C:\Users\istia\source\repos\PointOfSale\PointOfSale.Infrastructure\obj\Debug\net9.0\PointOfSale.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\istia\source\repos\PointOfSale\PointOfSale.Infrastructure\obj\Debug\net9.0\PointOfS.B7A8BE4C.Up2Date
+C:\Users\istia\source\repos\PointOfSale\PointOfSale.Infrastructure\obj\Debug\net9.0\PointOfSale.Infrastructure.dll
+C:\Users\istia\source\repos\PointOfSale\PointOfSale.Infrastructure\obj\Debug\net9.0\refint\PointOfSale.Infrastructure.dll
+C:\Users\istia\source\repos\PointOfSale\PointOfSale.Infrastructure\obj\Debug\net9.0\PointOfSale.Infrastructure.pdb
+C:\Users\istia\source\repos\PointOfSale\PointOfSale.Infrastructure\obj\Debug\net9.0\PointOfSale.Infrastructure.genruntimeconfig.cache
+C:\Users\istia\source\repos\PointOfSale\PointOfSale.Infrastructure\obj\Debug\net9.0\ref\PointOfSale.Infrastructure.dll

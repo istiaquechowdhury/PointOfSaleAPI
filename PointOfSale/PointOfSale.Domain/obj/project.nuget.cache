@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SufdZgxq6bM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.Domain\\PointOfSale.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\istia\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.202\\microsoft.net.sdk.compilers.toolset.9.0.202.nupkg.sha512"
+  ],
+  "logs": []
+}
