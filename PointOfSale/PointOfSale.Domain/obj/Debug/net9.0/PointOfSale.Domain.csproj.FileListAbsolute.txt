@@ -9,3 +9,15 @@ C:\Users\istia\source\repos\PointOfSale\PointOfSale.Domain\obj\Debug\net9.0\Poin
 C:\Users\istia\source\repos\PointOfSale\PointOfSale.Domain\obj\Debug\net9.0\refint\PointOfSale.Domain.dll
 C:\Users\istia\source\repos\PointOfSale\PointOfSale.Domain\obj\Debug\net9.0\PointOfSale.Domain.pdb
 C:\Users\istia\source\repos\PointOfSale\PointOfSale.Domain\obj\Debug\net9.0\ref\PointOfSale.Domain.dll
+C:\Users\Threesquare\Desktop\PointOfSaleAPI\PointOfSale\PointOfSale.Domain\bin\Debug\net9.0\PointOfSale.Domain.deps.json
+C:\Users\Threesquare\Desktop\PointOfSaleAPI\PointOfSale\PointOfSale.Domain\bin\Debug\net9.0\PointOfSale.Domain.dll
+C:\Users\Threesquare\Desktop\PointOfSaleAPI\PointOfSale\PointOfSale.Domain\bin\Debug\net9.0\PointOfSale.Domain.pdb
+C:\Users\Threesquare\Desktop\PointOfSaleAPI\PointOfSale\PointOfSale.Domain\obj\Debug\net9.0\PointOfSale.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Threesquare\Desktop\PointOfSaleAPI\PointOfSale\PointOfSale.Domain\obj\Debug\net9.0\PointOfSale.Domain.AssemblyInfoInputs.cache
+C:\Users\Threesquare\Desktop\PointOfSaleAPI\PointOfSale\PointOfSale.Domain\obj\Debug\net9.0\PointOfSale.Domain.AssemblyInfo.cs
+C:\Users\Threesquare\Desktop\PointOfSaleAPI\PointOfSale\PointOfSale.Domain\obj\Debug\net9.0\PointOfSale.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Threesquare\Desktop\PointOfSaleAPI\PointOfSale\PointOfSale.Domain\obj\Debug\net9.0\PointOfSale.Domain.sourcelink.json
+C:\Users\Threesquare\Desktop\PointOfSaleAPI\PointOfSale\PointOfSale.Domain\obj\Debug\net9.0\PointOfSale.Domain.dll
+C:\Users\Threesquare\Desktop\PointOfSaleAPI\PointOfSale\PointOfSale.Domain\obj\Debug\net9.0\refint\PointOfSale.Domain.dll
+C:\Users\Threesquare\Desktop\PointOfSaleAPI\PointOfSale\PointOfSale.Domain\obj\Debug\net9.0\PointOfSale.Domain.pdb
+C:\Users\Threesquare\Desktop\PointOfSaleAPI\PointOfSale\PointOfSale.Domain\obj\Debug\net9.0\ref\PointOfSale.Domain.dll

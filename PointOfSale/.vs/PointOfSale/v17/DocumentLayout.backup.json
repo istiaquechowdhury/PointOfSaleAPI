@@ -1,69 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\istia\\source\\repos\\PointOfSale\\",
+  "WorkspaceRootPath": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|c:\\users\\istia\\source\\repos\\pointofsale\\pointofsale.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|solutionrelative:pointofsale.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|c:\\users\\istia\\source\\repos\\pointofsale\\pointofsale.api\\webmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|solutionrelative:pointofsale.api\\webmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FC4F0B2-3FEE-4F0B-9BE1-7C07AC110F5A}|PointOfSale.Infrastructure\\PointOfSale.Infrastructure.csproj|c:\\users\\istia\\source\\repos\\pointofsale\\pointofsale.infrastructure\\applicationdb\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FC4F0B2-3FEE-4F0B-9BE1-7C07AC110F5A}|PointOfSale.Infrastructure\\PointOfSale.Infrastructure.csproj|solutionrelative:pointofsale.infrastructure\\applicationdb\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{895C137A-F42B-4014-9E4A-0D46510CF6A7}|PointOfSale.Application\\PointOfSale.Application.csproj|c:\\users\\istia\\source\\repos\\pointofsale\\pointofsale.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{895C137A-F42B-4014-9E4A-0D46510CF6A7}|PointOfSale.Application\\PointOfSale.Application.csproj|solutionrelative:pointofsale.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|c:\\users\\istia\\source\\repos\\pointofsale\\pointofsale.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|c:\\users\\threesquare\\desktop\\pointofsaleapi\\pointofsale\\pointofsale.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|solutionrelative:pointofsale.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|c:\\users\\istia\\source\\repos\\pointofsale\\pointofsale.api\\pointofsale.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|c:\\users\\threesquare\\desktop\\pointofsaleapi\\pointofsale\\pointofsale.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|solutionrelative:pointofsale.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC4F0B2-3FEE-4F0B-9BE1-7C07AC110F5A}|PointOfSale.Infrastructure\\PointOfSale.Infrastructure.csproj|c:\\users\\threesquare\\desktop\\pointofsaleapi\\pointofsale\\pointofsale.infrastructure\\migrations\\20250426165927_addedproducttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC4F0B2-3FEE-4F0B-9BE1-7C07AC110F5A}|PointOfSale.Infrastructure\\PointOfSale.Infrastructure.csproj|solutionrelative:pointofsale.infrastructure\\migrations\\20250426165927_addedproducttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|c:\\users\\threesquare\\desktop\\pointofsaleapi\\pointofsale\\pointofsale.api\\webmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|solutionrelative:pointofsale.api\\webmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC4F0B2-3FEE-4F0B-9BE1-7C07AC110F5A}|PointOfSale.Infrastructure\\PointOfSale.Infrastructure.csproj|c:\\users\\threesquare\\desktop\\pointofsaleapi\\pointofsale\\pointofsale.infrastructure\\applicationdb\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC4F0B2-3FEE-4F0B-9BE1-7C07AC110F5A}|PointOfSale.Infrastructure\\PointOfSale.Infrastructure.csproj|solutionrelative:pointofsale.infrastructure\\applicationdb\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895C137A-F42B-4014-9E4A-0D46510CF6A7}|PointOfSale.Application\\PointOfSale.Application.csproj|c:\\users\\threesquare\\desktop\\pointofsaleapi\\pointofsale\\pointofsale.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895C137A-F42B-4014-9E4A-0D46510CF6A7}|PointOfSale.Application\\PointOfSale.Application.csproj|solutionrelative:pointofsale.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|c:\\users\\threesquare\\desktop\\pointofsaleapi\\pointofsale\\pointofsale.api\\pointofsale.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|solutionrelative:pointofsale.api\\pointofsale.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FC4F0B2-3FEE-4F0B-9BE1-7C07AC110F5A}|PointOfSale.Infrastructure\\PointOfSale.Infrastructure.csproj|c:\\users\\istia\\source\\repos\\pointofsale\\pointofsale.infrastructure\\unitofworkclasses\\posunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FC4F0B2-3FEE-4F0B-9BE1-7C07AC110F5A}|PointOfSale.Infrastructure\\PointOfSale.Infrastructure.csproj|c:\\users\\threesquare\\desktop\\pointofsaleapi\\pointofsale\\pointofsale.infrastructure\\unitofworkclasses\\posunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FC4F0B2-3FEE-4F0B-9BE1-7C07AC110F5A}|PointOfSale.Infrastructure\\PointOfSale.Infrastructure.csproj|solutionrelative:pointofsale.infrastructure\\unitofworkclasses\\posunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{895C137A-F42B-4014-9E4A-0D46510CF6A7}|PointOfSale.Application\\PointOfSale.Application.csproj|c:\\users\\istia\\source\\repos\\pointofsale\\pointofsale.application\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{895C137A-F42B-4014-9E4A-0D46510CF6A7}|PointOfSale.Application\\PointOfSale.Application.csproj|c:\\users\\threesquare\\desktop\\pointofsaleapi\\pointofsale\\pointofsale.application\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{895C137A-F42B-4014-9E4A-0D46510CF6A7}|PointOfSale.Application\\PointOfSale.Application.csproj|solutionrelative:pointofsale.application\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FC4F0B2-3FEE-4F0B-9BE1-7C07AC110F5A}|PointOfSale.Infrastructure\\PointOfSale.Infrastructure.csproj|c:\\users\\istia\\source\\repos\\pointofsale\\pointofsale.infrastructure\\repositoryclasses\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FC4F0B2-3FEE-4F0B-9BE1-7C07AC110F5A}|PointOfSale.Infrastructure\\PointOfSale.Infrastructure.csproj|c:\\users\\threesquare\\desktop\\pointofsaleapi\\pointofsale\\pointofsale.infrastructure\\repositoryclasses\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FC4F0B2-3FEE-4F0B-9BE1-7C07AC110F5A}|PointOfSale.Infrastructure\\PointOfSale.Infrastructure.csproj|solutionrelative:pointofsale.infrastructure\\repositoryclasses\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A009CD9C-39E1-48C5-8291-FD7319256E4F}|PointOfSale.Domain\\PointOfSale.Domain.csproj|c:\\users\\istia\\source\\repos\\pointofsale\\pointofsale.domain\\unitofworkinterfaces\\iposunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A009CD9C-39E1-48C5-8291-FD7319256E4F}|PointOfSale.Domain\\PointOfSale.Domain.csproj|c:\\users\\threesquare\\desktop\\pointofsaleapi\\pointofsale\\pointofsale.domain\\unitofworkinterfaces\\iposunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A009CD9C-39E1-48C5-8291-FD7319256E4F}|PointOfSale.Domain\\PointOfSale.Domain.csproj|solutionrelative:pointofsale.domain\\unitofworkinterfaces\\iposunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A009CD9C-39E1-48C5-8291-FD7319256E4F}|PointOfSale.Domain\\PointOfSale.Domain.csproj|c:\\users\\istia\\source\\repos\\pointofsale\\pointofsale.domain\\repositoryinterfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A009CD9C-39E1-48C5-8291-FD7319256E4F}|PointOfSale.Domain\\PointOfSale.Domain.csproj|c:\\users\\threesquare\\desktop\\pointofsaleapi\\pointofsale\\pointofsale.domain\\repositoryinterfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A009CD9C-39E1-48C5-8291-FD7319256E4F}|PointOfSale.Domain\\PointOfSale.Domain.csproj|solutionrelative:pointofsale.domain\\repositoryinterfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|c:\\users\\istia\\source\\repos\\pointofsale\\pointofsale.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|c:\\users\\threesquare\\desktop\\pointofsaleapi\\pointofsale\\pointofsale.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|solutionrelative:pointofsale.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|c:\\users\\istia\\source\\repos\\pointofsale\\pointofsale.api\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|c:\\users\\threesquare\\desktop\\pointofsaleapi\\pointofsale\\pointofsale.api\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|solutionrelative:pointofsale.api\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A009CD9C-39E1-48C5-8291-FD7319256E4F}|PointOfSale.Domain\\PointOfSale.Domain.csproj|c:\\users\\istia\\source\\repos\\pointofsale\\pointofsale.domain\\pointofsale.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{A009CD9C-39E1-48C5-8291-FD7319256E4F}|PointOfSale.Domain\\PointOfSale.Domain.csproj|c:\\users\\threesquare\\desktop\\pointofsaleapi\\pointofsale\\pointofsale.domain\\pointofsale.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A009CD9C-39E1-48C5-8291-FD7319256E4F}|PointOfSale.Domain\\PointOfSale.Domain.csproj|solutionrelative:pointofsale.domain\\pointofsale.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A009CD9C-39E1-48C5-8291-FD7319256E4F}|PointOfSale.Domain\\PointOfSale.Domain.csproj|c:\\users\\istia\\source\\repos\\pointofsale\\pointofsale.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A009CD9C-39E1-48C5-8291-FD7319256E4F}|PointOfSale.Domain\\PointOfSale.Domain.csproj|c:\\users\\threesquare\\desktop\\pointofsaleapi\\pointofsale\\pointofsale.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A009CD9C-39E1-48C5-8291-FD7319256E4F}|PointOfSale.Domain\\PointOfSale.Domain.csproj|solutionrelative:pointofsale.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A009CD9C-39E1-48C5-8291-FD7319256E4F}|PointOfSale.Domain\\PointOfSale.Domain.csproj|c:\\users\\istia\\source\\repos\\pointofsale\\pointofsale.domain\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A009CD9C-39E1-48C5-8291-FD7319256E4F}|PointOfSale.Domain\\PointOfSale.Domain.csproj|c:\\users\\threesquare\\desktop\\pointofsaleapi\\pointofsale\\pointofsale.domain\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A009CD9C-39E1-48C5-8291-FD7319256E4F}|PointOfSale.Domain\\PointOfSale.Domain.csproj|solutionrelative:pointofsale.domain\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -74,168 +78,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPOSUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Domain\\UnitOfWorkInterfaces\\IPOSUnitOfWork.cs",
+              "RelativeDocumentMoniker": "PointOfSale.Domain\\UnitOfWorkInterfaces\\IPOSUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Domain\\UnitOfWorkInterfaces\\IPOSUnitOfWork.cs",
+              "RelativeToolTip": "PointOfSale.Domain\\UnitOfWorkInterfaces\\IPOSUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:47:15.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebModule.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.API\\WebModule.cs",
+              "RelativeDocumentMoniker": "PointOfSale.API\\WebModule.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.API\\WebModule.cs",
+              "RelativeToolTip": "PointOfSale.API\\WebModule.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:44:59.731Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.Infrastructure\\RepositoryClasses\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "PointOfSale.Infrastructure\\RepositoryClasses\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.Infrastructure\\RepositoryClasses\\ProductRepository.cs",
-              "RelativeToolTip": "PointOfSale.Infrastructure\\RepositoryClasses\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Application\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "PointOfSale.Application\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Application\\Services\\IProductService.cs",
+              "RelativeToolTip": "PointOfSale.Application\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T12:14:12.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T11:36:31.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.Domain\\RepositoryInterfaces\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "PointOfSale.Domain\\RepositoryInterfaces\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.Domain\\RepositoryInterfaces\\IProductRepository.cs",
-              "RelativeToolTip": "PointOfSale.Domain\\RepositoryInterfaces\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.API\\DTOS\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "PointOfSale.API\\DTOS\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.API\\DTOS\\ProductDTO.cs",
+              "RelativeToolTip": "PointOfSale.API\\DTOS\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T12:10:18.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "POSUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.Infrastructure\\UnitOfWorkClasses\\POSUnitOfWork.cs",
-              "RelativeDocumentMoniker": "PointOfSale.Infrastructure\\UnitOfWorkClasses\\POSUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.Infrastructure\\UnitOfWorkClasses\\POSUnitOfWork.cs",
-              "RelativeToolTip": "PointOfSale.Infrastructure\\UnitOfWorkClasses\\POSUnitOfWork.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T11:48:57.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IPOSUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.Domain\\UnitOfWorkInterfaces\\IPOSUnitOfWork.cs",
-              "RelativeDocumentMoniker": "PointOfSale.Domain\\UnitOfWorkInterfaces\\IPOSUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.Domain\\UnitOfWorkInterfaces\\IPOSUnitOfWork.cs",
-              "RelativeToolTip": "PointOfSale.Domain\\UnitOfWorkInterfaces\\IPOSUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T11:47:15.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T11:22:44.617Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "WebModule.cs",
-              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.API\\WebModule.cs",
-              "RelativeDocumentMoniker": "PointOfSale.API\\WebModule.cs",
-              "ToolTip": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.API\\WebModule.cs",
-              "RelativeToolTip": "PointOfSale.API\\WebModule.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T11:44:59.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.Application\\Services\\IProductService.cs",
-              "RelativeDocumentMoniker": "PointOfSale.Application\\Services\\IProductService.cs",
-              "ToolTip": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.Application\\Services\\IProductService.cs",
-              "RelativeToolTip": "PointOfSale.Application\\Services\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T11:36:31.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProductDTO.cs",
-              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.API\\DTOS\\ProductDTO.cs",
-              "RelativeDocumentMoniker": "PointOfSale.API\\DTOS\\ProductDTO.cs",
-              "ToolTip": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.API\\DTOS\\ProductDTO.cs",
-              "RelativeToolTip": "PointOfSale.API\\DTOS\\ProductDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T11:22:44.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.API\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.API\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "PointOfSale.API\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.API\\Controllers\\ProductController.cs",
               "RelativeToolTip": "PointOfSale.API\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAACcAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T08:40:43.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PointOfSale.API",
-              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.API\\PointOfSale.API.csproj",
-              "RelativeDocumentMoniker": "PointOfSale.API\\PointOfSale.API.csproj",
-              "ToolTip": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.API\\PointOfSale.API.csproj",
-              "RelativeToolTip": "PointOfSale.API\\PointOfSale.API.csproj",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAxwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-26T08:40:00.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PointOfSale.Domain",
-              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.Domain\\PointOfSale.Domain.csproj",
-              "RelativeDocumentMoniker": "PointOfSale.Domain\\PointOfSale.Domain.csproj",
-              "ToolTip": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.Domain\\PointOfSale.Domain.csproj",
-              "RelativeToolTip": "PointOfSale.Domain\\PointOfSale.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-26T08:40:00.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.Application\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "PointOfSale.Application\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.Application\\Services\\ProductService.cs",
-              "RelativeToolTip": "PointOfSale.Application\\Services\\ProductService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T16:54:15.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.API\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.API\\Program.cs",
               "RelativeDocumentMoniker": "PointOfSale.API\\Program.cs",
-              "ToolTip": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.API\\Program.cs",
               "RelativeToolTip": "PointOfSale.API\\Program.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAwwGgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T11:16:56.445Z",
               "EditorCaption": ""
@@ -243,23 +161,107 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.Infrastructure\\ApplicationDB\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "PointOfSale.Infrastructure\\ApplicationDB\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.Infrastructure\\ApplicationDB\\ApplicationDbContext.cs",
-              "RelativeToolTip": "PointOfSale.Infrastructure\\ApplicationDB\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Title": "20250426165927_addedproducttable.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Infrastructure\\Migrations\\20250426165927_addedproducttable.cs",
+              "RelativeDocumentMoniker": "PointOfSale.Infrastructure\\Migrations\\20250426165927_addedproducttable.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Infrastructure\\Migrations\\20250426165927_addedproducttable.cs",
+              "RelativeToolTip": "PointOfSale.Infrastructure\\Migrations\\20250426165927_addedproducttable.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T11:13:58.688Z",
+              "WhenOpened": "2025-04-27T04:45:42.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "POSUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Infrastructure\\UnitOfWorkClasses\\POSUnitOfWork.cs",
+              "RelativeDocumentMoniker": "PointOfSale.Infrastructure\\UnitOfWorkClasses\\POSUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Infrastructure\\UnitOfWorkClasses\\POSUnitOfWork.cs",
+              "RelativeToolTip": "PointOfSale.Infrastructure\\UnitOfWorkClasses\\POSUnitOfWork.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:48:57.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Domain\\RepositoryInterfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "PointOfSale.Domain\\RepositoryInterfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Domain\\RepositoryInterfaces\\IProductRepository.cs",
+              "RelativeToolTip": "PointOfSale.Domain\\RepositoryInterfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T12:10:18.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Infrastructure\\RepositoryClasses\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "PointOfSale.Infrastructure\\RepositoryClasses\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Infrastructure\\RepositoryClasses\\ProductRepository.cs",
+              "RelativeToolTip": "PointOfSale.Infrastructure\\RepositoryClasses\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T12:14:12.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PointOfSale.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.API\\PointOfSale.API.csproj",
+              "RelativeDocumentMoniker": "PointOfSale.API\\PointOfSale.API.csproj",
+              "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.API\\PointOfSale.API.csproj",
+              "RelativeToolTip": "PointOfSale.API\\PointOfSale.API.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-26T08:40:00.71Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "PointOfSale.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Domain\\PointOfSale.Domain.csproj",
+              "RelativeDocumentMoniker": "PointOfSale.Domain\\PointOfSale.Domain.csproj",
+              "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Domain\\PointOfSale.Domain.csproj",
+              "RelativeToolTip": "PointOfSale.Domain\\PointOfSale.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-26T08:40:00.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "PointOfSale.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "PointOfSale.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:54:15.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Infrastructure\\ApplicationDB\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PointOfSale.Infrastructure\\ApplicationDB\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Infrastructure\\ApplicationDB\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PointOfSale.Infrastructure\\ApplicationDB\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:13:58.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.Domain\\Entities\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "PointOfSale.Domain\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Domain\\Entities\\Product.cs",
               "RelativeToolTip": "PointOfSale.Domain\\Entities\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -267,11 +269,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "IEntity.cs",
-              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.Domain\\Entities\\IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Domain\\Entities\\IEntity.cs",
               "RelativeDocumentMoniker": "PointOfSale.Domain\\Entities\\IEntity.cs",
-              "ToolTip": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.Domain\\Entities\\IEntity.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Domain\\Entities\\IEntity.cs",
               "RelativeToolTip": "PointOfSale.Domain\\Entities\\IEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -279,16 +281,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.API\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.API\\appsettings.json",
               "RelativeDocumentMoniker": "PointOfSale.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.API\\appsettings.json",
               "RelativeToolTip": "PointOfSale.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-25T11:13:36.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T11:13:36.145Z"
             }
           ]
         }

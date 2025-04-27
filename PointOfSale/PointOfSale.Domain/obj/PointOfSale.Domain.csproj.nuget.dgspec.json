@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.Domain\\PointOfSale.Domain.csproj": {}
+    "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Domain\\PointOfSale.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.Domain\\PointOfSale.Domain.csproj": {
+    "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Domain\\PointOfSale.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.Domain\\PointOfSale.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Domain\\PointOfSale.Domain.csproj",
         "projectName": "PointOfSale.Domain",
-        "projectPath": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.Domain\\PointOfSale.Domain.csproj",
-        "packagesPath": "C:\\Users\\istia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\istia\\source\\repos\\PointOfSale\\PointOfSale.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Domain\\PointOfSale.Domain.csproj",
+        "packagesPath": "C:\\Users\\Threesquare\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\istia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Threesquare\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,18 +61,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.202, 9.0.202]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
