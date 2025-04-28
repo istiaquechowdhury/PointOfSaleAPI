@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|c:\\users\\threesquare\\desktop\\pointofsaleapi\\pointofsale\\pointofsale.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|solutionrelative:pointofsale.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FC4F0B2-3FEE-4F0B-9BE1-7C07AC110F5A}|PointOfSale.Infrastructure\\PointOfSale.Infrastructure.csproj|c:\\users\\threesquare\\desktop\\pointofsaleapi\\pointofsale\\pointofsale.infrastructure\\pointofsale.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4FC4F0B2-3FEE-4F0B-9BE1-7C07AC110F5A}|PointOfSale.Infrastructure\\PointOfSale.Infrastructure.csproj|solutionrelative:pointofsale.infrastructure\\pointofsale.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|c:\\users\\threesquare\\desktop\\pointofsaleapi\\pointofsale\\pointofsale.api\\pointofsale.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|solutionrelative:pointofsale.api\\pointofsale.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A009CD9C-39E1-48C5-8291-FD7319256E4F}|PointOfSale.Domain\\PointOfSale.Domain.csproj|c:\\users\\threesquare\\desktop\\pointofsaleapi\\pointofsale\\pointofsale.domain\\pointofsale.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A009CD9C-39E1-48C5-8291-FD7319256E4F}|PointOfSale.Domain\\PointOfSale.Domain.csproj|solutionrelative:pointofsale.domain\\pointofsale.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895C137A-F42B-4014-9E4A-0D46510CF6A7}|PointOfSale.Application\\PointOfSale.Application.csproj|c:\\users\\threesquare\\desktop\\pointofsaleapi\\pointofsale\\pointofsale.application\\pointofsale.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{895C137A-F42B-4014-9E4A-0D46510CF6A7}|PointOfSale.Application\\PointOfSale.Application.csproj|solutionrelative:pointofsale.application\\pointofsale.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|c:\\users\\threesquare\\desktop\\pointofsaleapi\\pointofsale\\pointofsale.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|solutionrelative:pointofsale.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|c:\\users\\threesquare\\desktop\\pointofsaleapi\\pointofsale\\pointofsale.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|solutionrelative:pointofsale.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FC4F0B2-3FEE-4F0B-9BE1-7C07AC110F5A}|PointOfSale.Infrastructure\\PointOfSale.Infrastructure.csproj|c:\\users\\threesquare\\desktop\\pointofsaleapi\\pointofsale\\pointofsale.infrastructure\\migrations\\20250426165927_addedproducttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{895C137A-F42B-4014-9E4A-0D46510CF6A7}|PointOfSale.Application\\PointOfSale.Application.csproj|c:\\users\\threesquare\\desktop\\pointofsaleapi\\pointofsale\\pointofsale.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{895C137A-F42B-4014-9E4A-0D46510CF6A7}|PointOfSale.Application\\PointOfSale.Application.csproj|solutionrelative:pointofsale.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|c:\\users\\threesquare\\desktop\\pointofsaleapi\\pointofsale\\pointofsale.api\\pointofsale.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|solutionrelative:pointofsale.api\\pointofsale.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FC4F0B2-3FEE-4F0B-9BE1-7C07AC110F5A}|PointOfSale.Infrastructure\\PointOfSale.Infrastructure.csproj|c:\\users\\threesquare\\desktop\\pointofsaleapi\\pointofsale\\pointofsale.infrastructure\\unitofworkclasses\\posunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,10 +71,6 @@
       "RelativeMoniker": "D:0:0:{AB90E3B8-C08E-455E-AB61-80E64DA5577B}|PointOfSale.API\\PointOfSale.API.csproj|solutionrelative:pointofsale.api\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A009CD9C-39E1-48C5-8291-FD7319256E4F}|PointOfSale.Domain\\PointOfSale.Domain.csproj|c:\\users\\threesquare\\desktop\\pointofsaleapi\\pointofsale\\pointofsale.domain\\pointofsale.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A009CD9C-39E1-48C5-8291-FD7319256E4F}|PointOfSale.Domain\\PointOfSale.Domain.csproj|solutionrelative:pointofsale.domain\\pointofsale.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A009CD9C-39E1-48C5-8291-FD7319256E4F}|PointOfSale.Domain\\PointOfSale.Domain.csproj|c:\\users\\threesquare\\desktop\\pointofsaleapi\\pointofsale\\pointofsale.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A009CD9C-39E1-48C5-8291-FD7319256E4F}|PointOfSale.Domain\\PointOfSale.Domain.csproj|solutionrelative:pointofsale.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -78,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,43 +94,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IPOSUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Domain\\UnitOfWorkInterfaces\\IPOSUnitOfWork.cs",
-              "RelativeDocumentMoniker": "PointOfSale.Domain\\UnitOfWorkInterfaces\\IPOSUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Domain\\UnitOfWorkInterfaces\\IPOSUnitOfWork.cs",
-              "RelativeToolTip": "PointOfSale.Domain\\UnitOfWorkInterfaces\\IPOSUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T11:47:15.766Z"
+              "DocumentIndex": 0,
+              "Title": "PointOfSale.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Infrastructure\\PointOfSale.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "PointOfSale.Infrastructure\\PointOfSale.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Infrastructure\\PointOfSale.Infrastructure.csproj",
+              "RelativeToolTip": "PointOfSale.Infrastructure\\PointOfSale.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-28T06:22:10.024Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "WebModule.cs",
-              "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.API\\WebModule.cs",
-              "RelativeDocumentMoniker": "PointOfSale.API\\WebModule.cs",
-              "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.API\\WebModule.cs",
-              "RelativeToolTip": "PointOfSale.API\\WebModule.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T11:44:59.731Z"
+              "Title": "PointOfSale.Application",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Application\\PointOfSale.Application.csproj",
+              "RelativeDocumentMoniker": "PointOfSale.Application\\PointOfSale.Application.csproj",
+              "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Application\\PointOfSale.Application.csproj",
+              "RelativeToolTip": "PointOfSale.Application\\PointOfSale.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-28T06:21:56.999Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Application\\Services\\IProductService.cs",
-              "RelativeDocumentMoniker": "PointOfSale.Application\\Services\\IProductService.cs",
-              "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Application\\Services\\IProductService.cs",
-              "RelativeToolTip": "PointOfSale.Application\\Services\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T11:36:31.213Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "ProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.API\\DTOS\\ProductDTO.cs",
               "RelativeDocumentMoniker": "PointOfSale.API\\DTOS\\ProductDTO.cs",
@@ -134,33 +132,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.API\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "PointOfSale.API\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.API\\Controllers\\ProductController.cs",
               "RelativeToolTip": "PointOfSale.API\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T08:40:43.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "PointOfSale.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Domain\\PointOfSale.Domain.csproj",
+              "RelativeDocumentMoniker": "PointOfSale.Domain\\PointOfSale.Domain.csproj",
+              "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Domain\\PointOfSale.Domain.csproj",
+              "RelativeToolTip": "PointOfSale.Domain\\PointOfSale.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-26T08:40:00.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PointOfSale.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.API\\PointOfSale.API.csproj",
+              "RelativeDocumentMoniker": "PointOfSale.API\\PointOfSale.API.csproj",
+              "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.API\\PointOfSale.API.csproj",
+              "RelativeToolTip": "PointOfSale.API\\PointOfSale.API.csproj",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-26T08:40:00.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Application\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "PointOfSale.Application\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Application\\Services\\IProductService.cs",
+              "RelativeToolTip": "PointOfSale.Application\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:36:31.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebModule.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.API\\WebModule.cs",
+              "RelativeDocumentMoniker": "PointOfSale.API\\WebModule.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.API\\WebModule.cs",
+              "RelativeToolTip": "PointOfSale.API\\WebModule.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:44:59.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPOSUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Domain\\UnitOfWorkInterfaces\\IPOSUnitOfWork.cs",
+              "RelativeDocumentMoniker": "PointOfSale.Domain\\UnitOfWorkInterfaces\\IPOSUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Domain\\UnitOfWorkInterfaces\\IPOSUnitOfWork.cs",
+              "RelativeToolTip": "PointOfSale.Domain\\UnitOfWorkInterfaces\\IPOSUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:47:15.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.API\\Program.cs",
               "RelativeDocumentMoniker": "PointOfSale.API\\Program.cs",
               "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.API\\Program.cs",
               "RelativeToolTip": "PointOfSale.API\\Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAACcAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T11:16:56.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T11:16:56.445Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "20250426165927_addedproducttable.cs",
               "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Infrastructure\\Migrations\\20250426165927_addedproducttable.cs",
               "RelativeDocumentMoniker": "PointOfSale.Infrastructure\\Migrations\\20250426165927_addedproducttable.cs",
@@ -168,12 +227,11 @@
               "RelativeToolTip": "PointOfSale.Infrastructure\\Migrations\\20250426165927_addedproducttable.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T04:45:42.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T04:45:42.208Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "POSUnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Infrastructure\\UnitOfWorkClasses\\POSUnitOfWork.cs",
               "RelativeDocumentMoniker": "PointOfSale.Infrastructure\\UnitOfWorkClasses\\POSUnitOfWork.cs",
@@ -185,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Domain\\RepositoryInterfaces\\IProductRepository.cs",
               "RelativeDocumentMoniker": "PointOfSale.Domain\\RepositoryInterfaces\\IProductRepository.cs",
@@ -197,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Infrastructure\\RepositoryClasses\\ProductRepository.cs",
               "RelativeDocumentMoniker": "PointOfSale.Infrastructure\\RepositoryClasses\\ProductRepository.cs",
@@ -209,31 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PointOfSale.API.csproj",
-              "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.API\\PointOfSale.API.csproj",
-              "RelativeDocumentMoniker": "PointOfSale.API\\PointOfSale.API.csproj",
-              "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.API\\PointOfSale.API.csproj",
-              "RelativeToolTip": "PointOfSale.API\\PointOfSale.API.csproj",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAxwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-26T08:40:00.71Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PointOfSale.Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Domain\\PointOfSale.Domain.csproj",
-              "RelativeDocumentMoniker": "PointOfSale.Domain\\PointOfSale.Domain.csproj",
-              "ToolTip": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Domain\\PointOfSale.Domain.csproj",
-              "RelativeToolTip": "PointOfSale.Domain\\PointOfSale.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-26T08:40:00.201Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Application\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "PointOfSale.Application\\Services\\ProductService.cs",
@@ -245,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Infrastructure\\ApplicationDB\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "PointOfSale.Infrastructure\\ApplicationDB\\ApplicationDbContext.cs",
@@ -257,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "PointOfSale.Domain\\Entities\\Product.cs",
@@ -269,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "IEntity.cs",
               "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.Domain\\Entities\\IEntity.cs",
               "RelativeDocumentMoniker": "PointOfSale.Domain\\Entities\\IEntity.cs",
@@ -281,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Threesquare\\Desktop\\PointOfSaleAPI\\PointOfSale\\PointOfSale.API\\appsettings.json",
               "RelativeDocumentMoniker": "PointOfSale.API\\appsettings.json",
